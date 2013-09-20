@@ -1,0 +1,4 @@
+*.pyc
+_client_secrets.json
+packages
+pubspec.lock
